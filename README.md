@@ -1,4 +1,4 @@
-# [slot](https://example.com/my-game/)
+# [Circle](https://example.com/my-game/)
 
 >   It&#39;s weird
 
